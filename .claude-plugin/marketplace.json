@@ -15,6 +15,14 @@
         "repo": "pemukl/plugin-bruno"
       },
       "description": "Work with Bruno API collections in the codebase: OpenCollection YAML, safe execution via Bruno CLI, environment & secret discipline."
+    },
+    {
+      "name": "elevenlabs",
+      "source": {
+        "source": "github",
+        "repo": "pemukl/plugin-elevenlabs"
+      },
+      "description": "Build and operate ElevenLabs voice agents: agent config, tools, workflows, testing, knowledge base, conversations, telephony — full Agents Platform API coverage including undocumented schema gotchas."
     }
   ]
 }
