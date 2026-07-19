@@ -1,0 +1,20 @@
+{
+  "name": "pemukl",
+  "owner": {
+    "name": "Marc Schneider",
+    "url": "https://github.com/pemukl"
+  },
+  "metadata": {
+    "description": "Marc Schneider's Claude Code plugins: Bruno API collections, and more to come."
+  },
+  "plugins": [
+    {
+      "name": "bruno",
+      "source": {
+        "source": "github",
+        "repo": "pemukl/plugin-bruno"
+      },
+      "description": "Work with Bruno API collections in the codebase: OpenCollection YAML, safe execution via Bruno CLI, environment & secret discipline."
+    }
+  ]
+}
